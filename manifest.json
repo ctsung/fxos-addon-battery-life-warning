@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Back to the Future",
+  "description": "A Firefox OS add-on that helps users go back/forward a page by swiping left/right.",
+  "version": "1.0",
+  "author": [
+    "Kinder Sung",
+    "Ying-Ruei Liang"
+  ],
+  "content_scripts": [{
+    "matches": [],
+    "css": [],
+    "js": []
+  }],
+  "icons": {
+    "128": "icons/icon.png"
+  }
+}

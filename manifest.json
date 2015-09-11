@@ -10,7 +10,9 @@
   "content_scripts": [{
     "matches": [],
     "css": [],
-    "js": []
+    "js": [
+        "js/b2f.js"
+    ]
   }],
   "icons": {
     "128": "icons/icon.png"

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Back to the Future",
-  "description": "A Firefox OS add-on that helps users go back/forward a page by swiping left/right.",
+  "name": "Back to the Cable",
+  "description": "A Firefox OS add-on that would warn users when the battery life is lower than the preset bar.",
   "version": "1.0",
   "author": [
     "Kinder Sung",
@@ -13,7 +13,7 @@
     ],
     "css": [],
     "js": [
-        "js/b2f.js"
+        "js/b2c.js"
     ]
   }],
   "icons": {

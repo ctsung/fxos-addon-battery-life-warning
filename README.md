@@ -1,2 +1,2 @@
-# Back to the Future
-A Firefox OS add-on that helps users go back/forward a page by swiping left/right.
+# Back to the Cable
+A Firefox OS add-on that would warn users when the battery life is lower than the preset bar.
